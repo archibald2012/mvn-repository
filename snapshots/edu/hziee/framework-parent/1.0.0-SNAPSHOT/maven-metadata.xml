@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>edu.hziee</groupId>
+  <artifactId>framework-parent</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130807.034509</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20130807034509</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-20130807.034509-1</value>
+        <updated>20130807034509</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
